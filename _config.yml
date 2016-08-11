@@ -12,5 +12,9 @@ color:
     - '#193441'
 layout_spectrum: 0.567183980718255
 name: emc2labs
+navigation:
+  - name: About emc2labs
+    id: 18762a09-c3e0-48ba-9c30-f0482087683f
+    type: content
 title: emc2labs
 description: Tools for educators in next-generation learning
