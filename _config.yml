@@ -1,16 +1,16 @@
-typography_spectrum: 0.2816830878145993
+typography_spectrum: 0.05685420287773013
 color:
-  brandStrength: 0.7967967274598777
-  lightness: 0.08304558857344091
-  saturation: 0.40030481247231364
-  rhythmicContrast: 0.41512517258524895
+  brandStrength: 0.017122289165854454
+  lightness: 0.6957600163295865
+  saturation: 0.46745004947297275
+  rhythmicContrast: 0.09394148550927639
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.567183980718255
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.7638549283146858
 name: emc2labs
 navigation:
   - name: About emc2labs
