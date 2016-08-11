@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[emc2labs]]></title>
+        <description><![CDATA[emc2labs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 03:28:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creating tools for educators]]></title>
+            <description><![CDATA[<article><h1>Creating tools for educators</h1><h2>Our vision</h2><p>emc2labs believes in a society where programming is a universal skill, where everyone has the means to solve whatever is important to them.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71e6a327-c0f5-44a0-b4ee-febb09e25812.jpg"></article>]]></description>
+            <link>undefinedcreating-tools-for-educators/index.html</link>
+            <guid isPermaLink="false">18762a09-c3e0-48ba-9c30-f0482087683f</guid>
+            <pubDate>Thu, 11 Aug 2016 03:28:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
