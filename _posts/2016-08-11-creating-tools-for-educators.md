@@ -2,18 +2,17 @@
 description: >-
   emc2labs believes in a society where programming is a universal skill, where
   everyone has the means to solve whatever is important to them.
-dateModified: '2016-08-11T02:00:12.270Z'
-datePublished: '2016-08-11T02:05:15.697Z'
+dateModified: '2016-08-11T02:08:14.219Z'
+datePublished: '2016-08-11T02:08:14.935Z'
 title: Creating tools for educators
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-creating-tools-for-educators.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: creating-tools-for-educators/index.html
+_type: Blurb
 
 ---
 # Creating tools for educators
