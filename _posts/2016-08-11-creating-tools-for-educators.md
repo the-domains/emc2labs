@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-11T02:10:00.081Z'
+sourcePath: _posts/2016-08-11-creating-tools-for-educators.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-11T02:09:59.359Z'
+title: Creating tools for educators
+publisher: {}
 description: >-
   emc2labs believes in a society where programming is a universal skill, where
   everyone has the means to solve whatever is important to them.
-dateModified: '2016-08-11T02:08:14.219Z'
-datePublished: '2016-08-11T02:08:14.935Z'
-title: Creating tools for educators
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-11-creating-tools-for-educators.md
-hasPage: true
 starred: false
 url: creating-tools-for-educators/index.html
 _type: Blurb
