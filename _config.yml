@@ -1,0 +1,14 @@
+layout_spectrum: 0.567183980718255
+typography_spectrum: 0.2816830878145993
+color:
+  brandStrength: 0.7967967274598777
+  lightness: 0.08304558857344091
+  saturation: 0.40030481247231364
+  rhythmicContrast: 0.41512517258524895
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: emc2labs
