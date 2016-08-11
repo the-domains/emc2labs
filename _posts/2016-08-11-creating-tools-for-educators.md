@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-11T02:10:00.081Z'
+datePublished: '2016-08-11T03:28:53.752Z'
 sourcePath: _posts/2016-08-11-creating-tools-for-educators.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T02:09:59.359Z'
+dateModified: '2016-08-11T03:28:50.398Z'
 title: Creating tools for educators
 publisher: {}
 description: >-
@@ -12,7 +13,7 @@ description: >-
   everyone has the means to solve whatever is important to them.
 starred: false
 url: creating-tools-for-educators/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Creating tools for educators
@@ -25,15 +26,3 @@ emc2labs believes in a society where programming is a universal skill, where eve
 ## Our mission
 
 emc2labs equips Hong Kong's educators with the tools to inspire children and adults with the next generation of STEM learning.
-
-## R&D focus
-
-emc2labs works on four main research and development directions:
-
-1\. Low-cost computing in the school environment
-
-2\. Bridging technology and Hong Kong STEM curriculum
-
-3\. Learning approaches to coding for children and adults
-
-4\. Impact of coding in the community
