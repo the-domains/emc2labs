@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.6145043335855007
 name: emc2labs
 navigation:
-  - name: About emc2labs
+  - name: About
     id: 18762a09-c3e0-48ba-9c30-f0482087683f
     type: content
 title: emc2labs
